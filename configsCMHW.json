@@ -1,7 +1,7 @@
 {
-  "sessionNames": ["Session1", "Session2", "Session3"],
-  "scriptNames": ["aaa.js", "bbb.js", "ccc.js"],
-  "configNames": ["ConfigA", "ConfigB", "ConfigC"],
+  "sessionNames": ["Session1", "Session2"],
+  "scriptNames": ["aaa.js", "bbb.js"],
+  "configNames": ["ConfigA", "ConfigB"],
   "timeBetweenDrops": 30,
   "dropsTimes": ["10:00", "11:00"]
 }
