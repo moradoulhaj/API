@@ -1,0 +1,7 @@
+{
+  "sessionNames": ["Session1", "Session2", "Session3"],
+  "scriptNames": ["Script1.js", "Script2.js", "Script3.js"],
+  "configNames": ["ConfigA", "ConfigB", "ConfigC"],
+  "timeBetweenDrops": 30,
+  "dropsTimes": ["10:00", "11:00"]
+}
